@@ -98,3 +98,7 @@
 	path = swig
 	url = https://github.com/shedbuilt/swig.git
     branch = .
+[submodule "git"]
+	path = git
+	url = https://github.com/shedbuilt/git.git
+	branch = .
