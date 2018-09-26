@@ -1,0 +1,100 @@
+[submodule "autoconf"]
+	path = autoconf
+	url = https://github.com/shedbuilt/autoconf.git
+    branch = .
+[submodule "automake"]
+	path = automake
+	url = https://github.com/shedbuilt/automake.git
+    branch = .
+[submodule "binutils"]
+	path = binutils
+	url = https://github.com/shedbuilt/binutils.git
+    branch = .
+[submodule "bison"]
+	path = bison
+	url = https://github.com/shedbuilt/bison.git
+    branch = .
+[submodule "diffutils"]
+	path = diffutils
+	url = https://github.com/shedbuilt/diffutils.git
+    branch = .
+[submodule "gawk"]
+	path = gawk
+	url = https://github.com/shedbuilt/gawk.git
+    branch = .
+[submodule "gcc"]
+	path = gcc
+	url = https://github.com/shedbuilt/gcc.git
+    branch = .
+[submodule "gmp"]
+	path = gmp
+	url = https://github.com/shedbuilt/gmp.git
+    branch = .
+[submodule "intltool"]
+	path = intltool
+	url = https://github.com/shedbuilt/intltool.git
+    branch = .
+[submodule "libffi"]
+	path = libffi
+	url = https://github.com/shedbuilt/libffi.git
+    branch = .
+[submodule "libtool"]
+	path = libtool
+	url = https://github.com/shedbuilt/libtool.git
+    branch = .
+[submodule "m4"]
+	path = m4
+	url = https://github.com/shedbuilt/m4.git
+    branch = .
+[submodule "make"]
+	path = make
+	url = https://github.com/shedbuilt/make.git
+    branch = .
+[submodule "meson"]
+	path = meson
+	url = https://github.com/shedbuilt/meson.git
+    branch = .
+[submodule "mpc"]
+	path = mpc
+	url = https://github.com/shedbuilt/mpc.git
+    branch = .
+[submodule "mpfr"]
+	path = mpfr
+	url = https://github.com/shedbuilt/mpfr.git
+    branch = .
+[submodule "ninja"]
+	path = ninja
+	url = https://github.com/shedbuilt/ninja.git
+    branch = .
+[submodule "patch"]
+	path = patch
+	url = https://github.com/shedbuilt/patch.git
+    branch = .
+[submodule "pcre"]
+	path = pcre
+	url = https://github.com/shedbuilt/pcre.git
+    branch = .
+[submodule "perl"]
+	path = perl
+	url = https://github.com/shedbuilt/perl.git
+    branch = .
+[submodule "perl_error"]
+	path = perl_error
+	url = https://github.com/shedbuilt/perl_error.git
+    branch = .
+[submodule "perl_xml-parser"]
+	path = perl_xml-parser
+	url = https://github.com/shedbuilt/perl_xml-parser.git
+    branch = .
+[submodule "python"]
+	path = python
+	url = https://github.com/shedbuilt/python.git
+    branch = .
+[submodule "python3"]
+	path = python3
+	url = https://github.com/shedbuilt/python3.git
+    branch = .
+[submodule "swig"]
+	path = swig
+	url = https://github.com/shedbuilt/swig.git
+    branch = .
