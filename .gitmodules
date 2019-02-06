@@ -174,3 +174,7 @@
 	path = yaml-cpp
 	url = https://github.com/shedbuilt/yaml-cpp.git
 	branch = .
+[submodule "python_mako"]
+	path = python_mako
+	url = https://github.com/shedbuilt/python_mako.git
+	branch = .
