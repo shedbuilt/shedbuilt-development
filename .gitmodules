@@ -178,3 +178,7 @@
 	path = python_mako
 	url = https://github.com/shedbuilt/python_mako.git
 	branch = .
+[submodule "docbook-xsl"]
+	path = docbook-xsl
+	url = https://github.com/shedbuilt/docbook-xsl.git
+	branch = .
